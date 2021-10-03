@@ -4,3 +4,11 @@
 # When configure fails, SCons outputs these
 config.log
 .sconf_temp
+
+# Custom ignores
+vc140.pdb
+*.obj
+*.exe
+
+bin/
+build/
